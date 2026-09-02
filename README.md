@@ -1,4 +1,10 @@
-## Hi there 👋
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trandict&theme=2077&animation=stagger&name=Trandict&title_color=ffffff&border_color=ffffff&icon_color=ffffff&chart_color=ffffff)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trandict&theme=2077&animation=stagger&title_color=ffffff&border_color=ffffff&icon_color=ffffff&chart_color=ffffff)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Trandict&theme=2077&animation=stagger&title_color=ffffff&border_color=ffffff&icon_color=ffffff&chart_color=ffffff)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Trandict&theme=2077&animation=stagger&title_color=ffffff&border_color=ffffff&icon_color=ffffff&chart_color=ffffff)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trandict&theme=2077&animation=stagger&utcOffset=0&title_color=ffffff&border_color=ffffff&icon_color=ffffff&chart_color=ffffff)
 
 <!--
 **Trandict/Trandict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
