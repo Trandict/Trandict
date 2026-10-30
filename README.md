@@ -4,10 +4,12 @@
 
 ### Focuses
 **AI & Robotics:** Embodied AI, Deep Learning, Reinforcement Learning, Multimodal Systems.
+
 **Engineering:** Embedded Systems, Software Infrastructure.
 
 ### Interests
 **Research:** Computer Vision · Large Language Models · Machine Learning
+
 **Creation:** Music Production · Game Development · Web & Data
 
 ### Codebase
