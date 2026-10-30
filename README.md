@@ -16,7 +16,7 @@
 Python · C/C++ · Verilog · MATLAB · MySQL · GDScript · GML
 
 ### My Channel
-Music: [NetEase Cloud Music](https://music.163.com/#/artist?id=51393028)
-Video: [Bilibili](https://space.bilibili.com/29242398)
+[NetEase Cloud Music](https://music.163.com/#/artist?id=51393028)
+[Bilibili](https://space.bilibili.com/29242398)
 
 > <u>***Lass die Welt zu mir zurückkehren.***</u>
