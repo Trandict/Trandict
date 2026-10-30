@@ -1,22 +1,20 @@
+<img width="1612" height="219" alt="HANA" src="https://github.com/user-attachments/assets/958ee824-ef3f-4d19-a504-6b611d7ecd5a" />
 
+# Trandict Ellegus
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trandict&theme=2077&animation=stagger&name=Trandict&title_color=ffffff&border_color=ffffff&icon_color=ffffff&chart_color=ffffff)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trandict&theme=2077&animation=stagger&title_color=ffffff&border_color=ffffff&icon_color=ffffff&chart_color=ffffff)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Trandict&theme=2077&animation=stagger&title_color=ffffff&border_color=ffffff&icon_color=ffffff&chart_color=ffffff)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Trandict&theme=2077&animation=stagger&title_color=ffffff&border_color=ffffff&icon_color=ffffff&chart_color=ffffff)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trandict&theme=2077&animation=stagger&utcOffset=0&title_color=ffffff&border_color=ffffff&icon_color=ffffff&chart_color=ffffff)
+### Focuses
+**AI & Robotics:** Embodied AI, Deep Learning, Reinforcement Learning, Multimodal Systems.
+**Engineering:** Embedded Systems, Software Infrastructure.
 
-<!--
-**Trandict/Trandict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interests
+**Research:** Computer Vision · Large Language Models · Machine Learning
+**Creation:** Music Production · Game Development · Web & Data
 
-Here are some ideas to get you started:
+### Codebase
+Python · C/C++ · Verilog · MATLAB · MySQL · GDScript · GML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Channel
+Music: [NetEase Cloud Music](https://music.163.com/#/artist?id=51393028)
+Video: [Bilibili](https://space.bilibili.com/29242398)
+
+> <u>***Lass die Welt zu mir zurückkehren.***</u>
